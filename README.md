@@ -14,8 +14,16 @@ ___
 
 <br />
 
+## Usando projeto como template
+___
 
-## Instalação
+```bash
+  expo init <nome do seu projeto> --template https://github.com/andrejr971/react-native-navigation
+```
+
+<br />
+
+## Instalação da navegação
 ___
 
 Instalando através do yarn
